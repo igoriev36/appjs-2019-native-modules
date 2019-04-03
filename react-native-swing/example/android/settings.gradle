@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-swing'
+project(':react-native-swing').projectDir = new File(rootProject.projectDir, '../../android')
+
+include ':app'
