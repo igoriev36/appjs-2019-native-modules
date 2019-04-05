@@ -1,0 +1,23 @@
+{
+  "name": "AJTimber",
+  "version": "1.0.0",
+  "summary": "AppjsTimber standalone module",
+  "description": "AppjsTimber standalone module",
+  "license": "MIT",
+  "authors": "650 Industries, Inc.",
+  "homepage": "https://github.com/expo/expo/tree/master/packages/appjs-timber",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/expo/expo.git"
+  },
+  "source_files": "AJTimber/**/*.{h,m}",
+  "preserve_paths": "AJTimber/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "UMCore": [
+
+    ]
+  }
+}

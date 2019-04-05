@@ -1,0 +1,6 @@
+rootProject.name = 'ExampleRN'
+
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodulesProjects()
+
+include ':app'

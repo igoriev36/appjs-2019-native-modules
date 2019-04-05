@@ -1,0 +1,1 @@
+../../../../../node_modules/appjs-timber/example-rn/node_modules/unimodules-font-interface/ios/UMFontInterface/UMFontManagerInterface.h

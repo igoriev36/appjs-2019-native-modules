@@ -1,0 +1,1 @@
+../../../../../node_modules/appjs-timber/example-rn/node_modules/expo-file-system/ios/EXFileSystem/EXFilePermissionModule.h
